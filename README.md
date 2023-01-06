@@ -21,6 +21,10 @@ This project is still being tested
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2Fsanuwaofficial%2FAQUABOT-MD)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/yP_YCd?referralCode=VN3jQs)
+
+
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/koyeb/example-prisma&branch=main&env[DATABASE_URL]&env[ANTI_BOT]&env[ANTI_LINK]&env[AQUA_SESSION]&env[ANTI_GROUP]&name=belmont-098324)
 ---------------------------------   
 
  ###  Developer :- Sanuwa-official 
