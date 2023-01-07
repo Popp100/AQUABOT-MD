@@ -22,7 +22,7 @@ This project is still being tested
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/yP_YCd?referralCode=VN3jQs)
 
-
+[![Deploy on MOGENIOUS](https://github.com/Popp100/AQUABOT-MD/wiki/Deploy-on-MOGENIOUS)
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/koyeb/https://github.com/Popp100/AQUABOT-MD&branch=main&env[DATABASE_URL]&env[ANTI_BOT]&env[ANTI_LINK]&env[AQUA_SESSION]&env[ANTI_GROUP]&name=belmont-098324)
 ---------------------------------   
